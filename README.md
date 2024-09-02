@@ -1,1 +1,1 @@
-# physics-teaching-data
+# Physics Teaching Data Repository
