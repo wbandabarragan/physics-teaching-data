@@ -1,6 +1,6 @@
 # Physics Teaching Data Repository
 
-This is an online repository that contains files with data I use for teaching physics courses at the University.
+This is an online repository that contains files with data I use for teaching physics courses at Yachay Tech University.
 
 I have organised the repository in folders as N-dimensional data:
 
