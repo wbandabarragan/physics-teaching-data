@@ -2,7 +2,9 @@
 
 This data set contains the following files:
 
-### 1. Solar Spectrum: https://github.com/wbandabarragan/ physics-teaching-data/blob/main/1D-data/sun_spectra.csv
+### 1. Solar Spectrum:
+
+File: https://github.com/wbandabarragan/ physics-teaching-data/blob/main/1D-data/sun_spectra.csv
 
 Source: https://www.pveducation.org/pvcdrom/appendices/standard-solar-spectra
 
