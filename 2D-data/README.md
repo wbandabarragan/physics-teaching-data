@@ -1,14 +1,11 @@
-# 1D data repository
+# 2D data repository
 
 This data set contains the following files:
 
-### 1. Solar Spectrum:
+### 1. M82 galaxy
 
-File: https://github.com/wbandabarragan/physics-teaching-data/blob/main/1D-data/sun_spectra.csv
+File: 
 
-Source: https://www.pveducation.org/pvcdrom/appendices/standard-solar-spectra
-
-Original Name: AM0AM1_5.xls
 
 ### 2. Yoghurt bacteria grow in long chains:
 
